@@ -1,0 +1,38 @@
+
+.container{
+    padding-top:40px ;
+    padding-left: 25px;
+    width: 20%;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: rgb(219, 183, 24);
+    margin-top: 130px;
+}
+input{
+    margin-bottom:20px;
+}
+.cuerpo{
+    margin-left:auto;
+    margin-right:auto;
+    padding: 50px;
+    width:88%;
+    height: 300px;
+    background-color: chartreuse;
+}
+.header{
+    
+    display: flex;
+    align-items: center ;
+    justify-content: space-around;
+    margin-bottom:15px ;
+    padding: 20px;
+}
+h1{
+    color: #007bff;
+}
+header img{
+    width:80px;
+    height:80px;
+    border-radius: 50px;
+    
+}
